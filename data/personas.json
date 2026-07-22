@@ -1,0 +1,2046 @@
+[
+  {
+    "id": "oriol-castells",
+    "fullName": "Oriol Castells",
+    "role": "Backend Engineer",
+    "email": "oriol.castells@fakemail.dev",
+    "phone": "+34 612 345 678",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/oriol-castells.jpg",
+    "summary": "Senior backend engineer with over 8 years of experience designing scalable microservices. Specialized in Python and Go, with a strong background in cloud architecture and data pipeline orchestration.",
+    "skills": [
+      "Python",
+      "Go",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Redis",
+      "Apache Kafka",
+      "gRPC",
+      "Git"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Novatech Solutions",
+        "title": "Tech Lead",
+        "start": "Jan 2022",
+        "end": "Present",
+        "bullets": [
+          "Led a team of 5 backend developers in migrating a legacy monolithic web application into a microservices architecture.",
+          "Optimized data processing workflows using Python and Apache Kafka, reducing overall pipeline execution time by 40%.",
+          "Mentored junior engineers and implemented standard peer-review practices to improve code quality."
+        ]
+      },
+      {
+        "company": "CloudVibe",
+        "title": "Senior Backend Developer",
+        "start": "Sep 2018",
+        "end": "Dec 2021",
+        "bullets": [
+          "Designed and built reliable microservices in Go and Python to handle high-frequency user telemetry.",
+          "Reduced API response latency by 35% through query optimization and caching using Redis."
+        ]
+      },
+      {
+        "company": "AppCraft",
+        "title": "Backend Developer",
+        "start": "Oct 2015",
+        "end": "Aug 2018",
+        "bullets": [
+          "Maintained and improved core backend systems supporting over 100k active daily users.",
+          "Migrated database infrastructure from legacy self-hosted servers to PostgreSQL on AWS RDS."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat Politècnica de Catalunya (UPC)",
+        "degree": "Bachelor's Degree in Computer Science",
+        "start": "Sep 2011",
+        "end": "Jun 2015"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  },
+  {
+    "id": "alejandro-ruiz-gomez",
+    "fullName": "Alejandro Ruiz Gómez",
+    "role": "Backend Engineer",
+    "email": "alejandro.ruiz@examplemail.com",
+    "phone": "+34 678 901 234",
+    "location": "Madrid, Spain",
+    "photoPath": "data/photos/alejandro-ruiz-gomez.jpg",
+    "summary": "Ingeniero backend con más de 5 años de experiencia especializada en el desarrollo de APIs robustas en Java y Spring Boot. Enfocado en la optimización del rendimiento de bases de datos y la integración de arquitecturas orientadas a eventos.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "MongoDB",
+      "Docker",
+      "Kubernetes",
+      "RabbitMQ",
+      "REST APIs",
+      "Git",
+      "JUnit",
+      "AWS"
+    ],
+    "languages": [
+      {
+        "name": "Español",
+        "level": "Nativo"
+      },
+      {
+        "name": "Inglés",
+        "level": "B2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Nexo Digital",
+        "title": "Ingeniero Backend Senior",
+        "start": "mar 2022",
+        "end": "Actualidad",
+        "bullets": [
+          "Diseño e implementación de microservicios distribuidos usando Spring Boot y RabbitMQ para una plataforma fintech.",
+          "Reducción de los tiempos de respuesta del sistema de transacciones en un 25% mediante estrategias avanzadas de indexación y caché.",
+          "Colaboración con equipos de producto para la definición y el despliegue continuo de nuevas características en entornos AWS."
+        ]
+      },
+      {
+        "company": "Soluciones ItMad",
+        "title": "Programador Java",
+        "start": "sep 2019",
+        "end": "feb 2022",
+        "bullets": [
+          "Desarrollo de servicios REST seguros para la integración con pasarelas de pago de terceros.",
+          "Mantenimiento y optimización de bases de datos relacionales PostgreSQL en entornos de producción."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Autónoma de Madrid",
+        "degree": "Grado en Ingeniería Informática",
+        "start": "sep 2015",
+        "end": "jun 2019"
+      }
+    ],
+    "cvLanguage": "es",
+    "templateId": 2
+  },
+  {
+    "id": "laia-vidal",
+    "fullName": "Laia Vidal",
+    "role": "Backend Engineer",
+    "email": "laia.vidal@mail-example.net",
+    "phone": "+34 699 888 777",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/laia-vidal.jpg",
+    "summary": "Passionate junior backend engineer with a strong foundation in Node.js and TypeScript. Eager to contribute to building reliable APIs and improving cloud-native deployment pipelines.",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Express",
+      "PostgreSQL",
+      "MongoDB",
+      "Docker",
+      "Git",
+      "Jest",
+      "REST APIs",
+      "AWS (S3/EC2)"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "PixelSpain",
+        "title": "Junior Backend Developer",
+        "start": "Nov 2023",
+        "end": "Present",
+        "bullets": [
+          "Contributed to building and scaling RESTful APIs using Node.js and TypeScript for e-commerce platforms.",
+          "Wrote automated unit and integration tests achieving 90% code coverage using Jest.",
+          "Assisted in deploying service updates to AWS-managed containerized environments."
+        ]
+      },
+      {
+        "company": "WebSolutions",
+        "title": "Intern Backend Developer",
+        "start": "Feb 2023",
+        "end": "Oct 2023",
+        "bullets": [
+          "Maintained existing database schemas and performed data migrations under the guidance of senior staff.",
+          "Investigated and resolved minor bugs in legacy Express applications."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de Barcelona (UB)",
+        "degree": "Bachelor's Degree in Computer Engineering",
+        "start": "Sep 2019",
+        "end": "Jun 2023"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 3
+  },
+  {
+    "id": "sven-de-jong",
+    "fullName": "Sven de Jong",
+    "role": "Backend Engineer",
+    "email": "sven.dejong@fakemail.dev",
+    "phone": "+31 6 1234 5678",
+    "location": "Amsterdam, Netherlands",
+    "photoPath": "data/photos/sven-de-jong.jpg",
+    "summary": "Staff Backend Engineer with over 12 years of expertise architecting high-throughput distributed systems. Recognized for scaling cloud infrastructure, leading core framework design, and mentoring multi-disciplinary engineering teams.",
+    "skills": [
+      "Python",
+      "Go",
+      "Distributed Systems",
+      "AWS",
+      "Kubernetes",
+      "Apache Kafka",
+      "Cassandra",
+      "Docker",
+      "Terraform",
+      "System Architecture",
+      "gRPC"
+    ],
+    "languages": [
+      {
+        "name": "Dutch",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "FinFlow Tech",
+        "title": "Staff Engineer",
+        "start": "Mar 2021",
+        "end": "Present",
+        "bullets": [
+          "Architected a real-time transaction processing engine scaling to 50k requests per second utilizing Python, Go, and Kafka.",
+          "Established and communicated long-term technical direction for three cross-functional backend engineering teams.",
+          "Standardized Infrastructure-as-Code setups with Terraform, leading to a 50% decrease in environmental provisioning times."
+        ]
+      },
+      {
+        "company": "UtrechtLogix",
+        "title": "Principal Engineer",
+        "start": "Sep 2016",
+        "end": "Feb 2021",
+        "bullets": [
+          "Led a complex modernization project migrating a legacy PHP monolith into a distributed microservices architecture in Python.",
+          "Optimized the storage tier costs by 40% through a strategic migration to Apache Cassandra and DynamoDB."
+        ]
+      },
+      {
+        "company": "Amsterdam Data Corp",
+        "title": "Senior Software Engineer",
+        "start": "Nov 2011",
+        "end": "Aug 2016",
+        "bullets": [
+          "Designed high-performance backend pipelines that ingested and processed multiple terabytes of telemetry data daily.",
+          "Introduced standardized CI/CD practices which decreased critical deployment incidents by 70%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Delft University of Technology",
+        "degree": "Master of Science in Computer Science",
+        "start": "Sep 2009",
+        "end": "Jul 2011"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  },
+  {
+    "id": "jordi-gimenez",
+    "fullName": "Jordi Giménez",
+    "role": "Backend Engineer",
+    "email": "jordi.gimenez@fakemail.dev",
+    "phone": "+34 654 321 098",
+    "location": "Valencia, Spain",
+    "photoPath": "data/photos/jordi-gimenez.jpg",
+    "summary": "Backend engineer with over 5 years of experience specializing in JVM languages and microservices architectures. Passionate about building highly scalable APIs and optimizing complex database performance under heavy traffic.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "REST APIs",
+      "Redis",
+      "Git",
+      "Maven"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "Catalan",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Novatech Solutions",
+        "title": "Backend Developer",
+        "start": "Jan 2021",
+        "end": "Present",
+        "bullets": [
+          "Developed core transactional microservices using Spring Boot, increasing platform throughput by 25%.",
+          "Optimized PostgreSQL queries and implemented Redis caching, reducing API response times from 300ms to 80ms.",
+          "Integrated third-party payment gateways and secured API communication using OAuth2 protocols."
+        ]
+      },
+      {
+        "company": "Turia Systems",
+        "title": "Junior Backend Developer",
+        "start": "Sep 2018",
+        "end": "Dec 2020",
+        "bullets": [
+          "Maintained and enhanced RESTful APIs in Java, collaborating closely with frontend team members.",
+          "Wrote automated unit and integration tests using JUnit and Mockito, achieving 85% test coverage.",
+          "Assisted in migrating legacy PHP monolith components to structured Spring Boot services."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de València",
+        "degree": "BSc in Computer Science",
+        "start": "Sep 2014",
+        "end": "Jun 2018"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 2
+  },
+  {
+    "id": "joao-silva",
+    "fullName": "João Silva",
+    "role": "Backend Engineer",
+    "email": "joao.silva@examplemail.com",
+    "phone": "+351 912 345 678",
+    "location": "Lisbon, Portugal",
+    "photoPath": "data/photos/joao-silva.jpg",
+    "summary": "Senior backend engineer with 9 years of experience architecting high-throughput distributed systems. Expert in Go and Node.js, focused on cloud-native solutions, event-driven design, and system scalability.",
+    "skills": [
+      "Go",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Apache Kafka",
+      "gRPC",
+      "Docker",
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Redis"
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C2"
+      },
+      {
+        "name": "Spanish",
+        "level": "B2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tagus Tech",
+        "title": "Senior Backend Engineer",
+        "start": "Mar 2021",
+        "end": "Present",
+        "bullets": [
+          "Redesigned the core payment ingestion flow using Go and Kafka, successfully handling peaks of 15,000 requests per second.",
+          "Led a backend engineering pod of 4 developers, mentoring junior staff and establishing strict design patterns.",
+          "Architected cloud infrastructure with Terraform on AWS, migrating key services to Kubernetes to improve scaling capabilities."
+        ]
+      },
+      {
+        "company": "Lisbon Digital Labs",
+        "title": "Backend Engineer",
+        "start": "Jan 2018",
+        "end": "Feb 2021",
+        "bullets": [
+          "Built secure microservices with Node.js and TypeScript to support high-traffic mobile application clients.",
+          "Migrated legacy monolith database instances to dynamic RDS clusters, reducing downtime to near zero."
+        ]
+      },
+      {
+        "company": "WebFast Portugal",
+        "title": "Software Developer",
+        "start": "Sep 2015",
+        "end": "Dec 2017",
+        "bullets": [
+          "Developed and optimized REST APIs for a prominent real estate portal.",
+          "Configured continuous integration pipelines with Jenkins, cutting deploy time in half."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Lisbon",
+        "degree": "MSc in Computer Science and Engineering",
+        "start": "Sep 2010",
+        "end": "Jun 2015"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 3
+  },
+  {
+    "id": "mireia-bosch",
+    "fullName": "Mireia Bosch",
+    "role": "Frontend Engineer",
+    "email": "mireia.bosch@mail-example.net",
+    "phone": "+34 682 910 234",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/mireia-bosch.jpg",
+    "summary": "Senior frontend engineer with 8 years of experience designing and building responsive, high-performance web applications. Specialized in modern React and TypeScript ecosystems with a strong focus on web performance and accessibility.",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Redux Toolkit",
+      "Webpack",
+      "Jest",
+      "Tailwind CSS",
+      "Cypress"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "BarnaTech Solutions",
+        "title": "Senior Frontend Engineer",
+        "start": "Jul 2021",
+        "end": "Present",
+        "bullets": [
+          "Led the complete migration of a legacy client portal to Next.js, improving First Contentful Paint by 40%.",
+          "Implemented WCAG 2.1 AA accessibility guidelines across core web pages, opening services to a broader demographic.",
+          "Established custom Webpack configurations that optimized bundle sizing, saving users 1.2MB of initial transfer data."
+        ]
+      },
+      {
+        "company": "Condal Digital",
+        "title": "Frontend Developer",
+        "start": "Mar 2018",
+        "end": "Jun 2021",
+        "bullets": [
+          "Developed and launched customer-facing dashboard features using React and Redux Toolkit.",
+          "Designed and documented an internal UI component library, reducing overall frontend development cycles by 20%."
+        ]
+      },
+      {
+        "company": "PixelArt Studio",
+        "title": "Web Developer",
+        "start": "Nov 2015",
+        "end": "Feb 2018",
+        "bullets": [
+          "Created responsive landing pages and customized web modules utilizing HTML, CSS, and Vanilla JavaScript.",
+          "Tested and resolved layout irregularities across various web browsers and mobile platforms."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de Barcelona",
+        "degree": "Bachelor's Degree in Software Engineering",
+        "start": "Sep 2011",
+        "end": "Jun 2015"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  },
+  {
+    "id": "manuel-ortiz-ruiz",
+    "fullName": "Manuel Ortiz Ruiz",
+    "role": "Frontend Engineer",
+    "email": "manuel.ortiz@fakemail.dev",
+    "phone": "+34 612 345 678",
+    "location": "Sevilla, Spain",
+    "photoPath": "data/photos/manuel-ortiz-ruiz.jpg",
+    "summary": "Ingeniero frontend con más de 5 años de experiencia en el desarrollo de aplicaciones web interactivas y dinámicas. Especializado en Vue.js y arquitectura moderna de JavaScript con enfoque en la experiencia de usuario y optimización de rendimiento.",
+    "skills": [
+      "Vue.js",
+      "Vuex",
+      "Nuxt.js",
+      "JavaScript",
+      "TypeScript",
+      "CSS3",
+      "SASS",
+      "Git",
+      "Webpack",
+      "Vitest",
+      "Tailwind CSS"
+    ],
+    "languages": [
+      {
+        "name": "Español",
+        "level": "Nativo"
+      },
+      {
+        "name": "Inglés",
+        "level": "B2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Guadalquivir Software",
+        "title": "Ingeniero Frontend",
+        "start": "ene 2021",
+        "end": "Actualidad",
+        "bullets": [
+          "Desarrolló y mantuvo múltiples aplicaciones web utilizando Vue.js, mejorando la puntuación de Lighthouse de rendimiento en un 25%.",
+          "Integró APIs REST complejas y optimizó la gestión del estado global de la aplicación utilizando Pinia.",
+          "Colaboró en entornos ágiles con equipos de producto para conceptualizar, prototipar e implementar nuevas funcionalidades."
+        ]
+      },
+      {
+        "company": "Giralda Apps",
+        "title": "Desarrollador Frontend Junior",
+        "start": "sep 2018",
+        "end": "dic 2020",
+        "bullets": [
+          "Apoyó en la refactorización de portales e-commerce heredados migrándolos a componentes basados en Vue.js y Sass.",
+          "Escribió pruebas unitarias robustas utilizando Jest, aumentando la estabilidad del código en producción."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Sevilla",
+        "degree": "Grado en Ingeniería Informática - Ingeniería del Software",
+        "start": "sep 2014",
+        "end": "jun 2018"
+      }
+    ],
+    "cvLanguage": "es",
+    "templateId": 2
+  },
+  {
+    "id": "montserrat-soler-casas",
+    "fullName": "Montserrat Soler Casas",
+    "role": "Frontend Engineer",
+    "email": "montserrat.soler@fakemail.dev",
+    "phone": "+34 612 345 678",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/montserrat-soler-casas.jpg",
+    "summary": "Junior frontend engineer with 2 years of professional experience building responsive web applications. Specialized in modern React and TypeScript, focusing on creating accessible and performant user interfaces.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "Sass",
+      "Tailwind CSS",
+      "Git",
+      "Jest"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Novatech Solutions",
+        "title": "Junior Frontend Developer",
+        "start": "Sep 2022",
+        "end": "Present",
+        "bullets": [
+          "Collaborated on migration of a legacy jQuery dashboard to React, improving initial load time by 30%.",
+          "Implemented responsive UI components using Tailwind CSS and TypeScript according to Figma designs.",
+          "Wrote unit tests with Jest and React Testing Library, increasing test coverage from 45% to 75%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de Barcelona",
+        "degree": "Bachelor's Degree in Computer Science",
+        "start": "Sep 2018",
+        "end": "Jun 2022"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 3
+  },
+  {
+    "id": "lukas-weber",
+    "fullName": "Lukas Weber",
+    "role": "Frontend Engineer",
+    "email": "lukas.weber@examplemail.com",
+    "phone": "+49 170 1234567",
+    "location": "Berlin, Germany",
+    "photoPath": "data/photos/lukas-weber.jpg",
+    "summary": "Frontend engineer with 4 years of experience crafting scalable web interfaces. Proven track record of optimizing application state management and leading successful migrations to modern Vue.js setups.",
+    "skills": [
+      "Vue.js",
+      "Vuex",
+      "Pinia",
+      "JavaScript",
+      "TypeScript",
+      "Webpack",
+      "Nuxt.js",
+      "CSS Grid",
+      "Vitest",
+      "CI/CD"
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Berlin Digital Labs",
+        "title": "Frontend Engineer",
+        "start": "Jan 2022",
+        "end": "Present",
+        "bullets": [
+          "Led the refactoring of a major e-commerce checkout flow, reducing shopping cart abandonment rate by 8%.",
+          "Introduced Pinia for state management, simplifying data flow across 40+ dynamic application components.",
+          "Mentored 2 junior developers on frontend best practices, browser compatibility, and code review workflows."
+        ]
+      },
+      {
+        "company": "SpreeCommerce GmbH",
+        "title": "Associate Frontend Developer",
+        "start": "Oct 2019",
+        "end": "Dec 2021",
+        "bullets": [
+          "Developed and maintained modular UI components for a B2B SaaS platform using Vue 2 and Bootstrap.",
+          "Optimized web assets and bundle sizes, resulting in a 20% speedup on mobile browser rendering times."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technical University of Berlin",
+        "degree": "B.Sc. in Computer Science",
+        "start": "Oct 2015",
+        "end": "Sep 2019"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  },
+  {
+    "id": "joan-puigdemont-i-roca",
+    "fullName": "Joan Puigdemont i Roca",
+    "role": "Frontend Engineer",
+    "email": "joan.puigdemont@mail-example.net",
+    "phone": "+34 688 123 456",
+    "location": "Girona, Spain",
+    "photoPath": "data/photos/joan-puigdemont-i-roca.jpg",
+    "summary": "Senior frontend architect with 8 years of experience building complex, accessible web platforms. Expert in micro-frontends, performance optimization, and establishing frontend engineering standards across multi-disciplinary teams.",
+    "skills": [
+      "React",
+      "Redux Toolkit",
+      "Micro-frontends",
+      "Next.js",
+      "TypeScript",
+      "GraphQL",
+      "Webpack",
+      "Cypress",
+      "WCAG Accessibility",
+      "Agile Methodology"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Vistaprint",
+        "title": "Senior Frontend Engineer",
+        "start": "Mar 2021",
+        "end": "Present",
+        "bullets": [
+          "Architected a micro-frontend architecture using Webpack Module Federation, allowing three independent product teams to deploy autonomously.",
+          "Improved global website accessibility rating to meet strict WCAG 2.1 AA compliance standards across all primary purchasing funnels.",
+          "Established automated CI/CD pipeline checks with ESLint and Prettier, reducing post-deployment frontend runtime bugs by 40%."
+        ]
+      },
+      {
+        "company": "Girona Tech Hub",
+        "title": "Frontend Developer",
+        "start": "Jan 2018",
+        "end": "Feb 2021",
+        "bullets": [
+          "Developed a high-traffic regional real-estate portal using Next.js, achieving Server-Side Rendering (SSR) load times under 1.5 seconds.",
+          "Collaborated closely with UX/UI designers to build and document an in-house design system of highly reusable React components."
+        ]
+      },
+      {
+        "company": "WebGirona Agency",
+        "title": "Junior Web Developer",
+        "start": "Sep 2015",
+        "end": "Dec 2017",
+        "bullets": [
+          "Built interactive, pixel-perfect client websites using HTML5, CSS3, Sass, and vanilla ES6 JavaScript.",
+          "Integrated REST APIs for third-party billing modules and regional mapping services."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de Girona",
+        "degree": "Bachelor's Degree in Web Development and Design",
+        "start": "Sep 2011",
+        "end": "Jun 2015"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 2
+  },
+  {
+    "id": "marta-alarcon-ferran",
+    "fullName": "Marta Alarcón Ferran",
+    "role": "Full-Stack Engineer",
+    "email": "marta.alarcon@fakemail.dev",
+    "phone": "+34 699 987 654",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/marta-alarcon-ferran.jpg",
+    "summary": "Senior Full-Stack Engineer with 7 years of experience designing and scaling complex web systems. Expert in Node.js backend architectures and frontend frameworks, with deep knowledge of relational and non-relational database design.",
+    "skills": [
+      "Node.js",
+      "Express",
+      "NestJS",
+      "PostgreSQL",
+      "MongoDB",
+      "React",
+      "Angular",
+      "TypeScript",
+      "Docker",
+      "AWS (S3, EC2)",
+      "Redis",
+      "Jest"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "Catalan",
+        "level": "Bilingual"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Glovo Systems",
+        "title": "Senior Full-Stack Engineer",
+        "start": "Jun 2021",
+        "end": "Present",
+        "bullets": [
+          "Designed and implemented a scalable microservice using NestJS and PostgreSQL to handle real-time delivery inventory updates, serving 5,000+ requests/sec.",
+          "Led a team of 4 engineers in migrating an administrative portal from Angular to React, resulting in a 40% reduction in client-side bundle size.",
+          "Optimized relational database queries and introduced Redis caching layers, successfully reducing average API latency by 120ms."
+        ]
+      },
+      {
+        "company": "Netrivals",
+        "title": "Software Engineer",
+        "start": "Mar 2018",
+        "end": "May 2021",
+        "bullets": [
+          "Developed dynamic, data-intensive web dashboards using Node.js and React to track competitor price-scraping metrics.",
+          "Containerized development and staging application environments with Docker, shortening onboarding setups for new engineers from 3 days to under 2 hours."
+        ]
+      },
+      {
+        "company": "AppBuilders BCN",
+        "title": "Junior Developer",
+        "start": "Sep 2016",
+        "end": "Feb 2018",
+        "bullets": [
+          "Maintained and added new backend endpoints to mobile-responsive web apps using Express and jQuery.",
+          "Wrote automated integration tests and resolved complex SQL query performance issues in Postgres database instances."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat Pompeu Fabra",
+        "degree": "B.Sc. in Computer Engineering",
+        "start": "Sep 2012",
+        "end": "Jun 2016"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 3
+  },
+  {
+    "id": "jorge-lacruz-beltran",
+    "fullName": "Jorge Lacruz Beltrán",
+    "role": "Full-Stack Engineer",
+    "email": "jorge.lacruz@examplemail.com",
+    "phone": "+34 689 123 456",
+    "location": "Zaragoza, Spain",
+    "photoPath": "data/photos/jorge-lacruz-beltran.jpg",
+    "summary": "Ingeniero full-stack con más de cinco años de experiencia en el desarrollo de aplicaciones web robustas. Especializado en el ecosistema de JavaScript y TypeScript, con un fuerte enfoque en el backend con Node.js y en la creación de interfaces de usuario optimizadas con React.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "REST APIs",
+      "Tailwind CSS",
+      "Jest"
+    ],
+    "languages": [
+      {
+        "name": "Español",
+        "level": "Nativo"
+      },
+      {
+        "name": "Inglés",
+        "level": "B2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Zeta Tech Solutions",
+        "title": "Desarrollador Full-Stack Senior",
+        "start": "nov 2021",
+        "end": "Actualidad",
+        "bullets": [
+          "Lideré la migración de una plataforma monolítica a microservicios utilizando Node.js y Docker, reduciendo el tiempo de carga del servidor en un 35%.",
+          "Rediseñé la interfaz de usuario web utilizando React y Tailwind CSS, mejorando las métricas de retención de usuarios en un 15%.",
+          "Implementé pruebas automatizadas unitarias y de integración con Jest, alcanzando un 85% de cobertura de código."
+        ]
+      },
+      {
+        "company": "Ebro Digital",
+        "title": "Desarrollador Web",
+        "start": "sep 2018",
+        "end": "oct 2021",
+        "bullets": [
+          "Desarrollé y mantuve múltiples aplicaciones web corporativas utilizando Vue.js y Express.js.",
+          "Optimicé consultas SQL complejas en PostgreSQL, reduciendo el tiempo de respuesta de las APIs en un 20%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Zaragoza",
+        "degree": "Grado en Ingeniería Informática",
+        "start": "2014",
+        "end": "2018"
+      }
+    ],
+    "cvLanguage": "es",
+    "templateId": 1
+  },
+  {
+    "id": "marc-clapes-i-sole",
+    "fullName": "Marc Clapés i Solé",
+    "role": "Full-Stack Engineer",
+    "email": "marc.clapes@fakemail.dev",
+    "phone": "+34 612 987 654",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/marc-clapes-i-sole.jpg",
+    "summary": "Detail-oriented Full-Stack Engineer with nearly two years of professional experience building responsive web applications. Proficient in modern frontend frameworks like Vue.js and backend technologies like NestJS, with a passion for writing clean, maintainable code.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Vue.js",
+      "NestJS",
+      "Node.js",
+      "MongoDB",
+      "Sass",
+      "Git",
+      "Tailwind CSS",
+      "Jest",
+      "GraphQL"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Novatest Systems",
+        "title": "Junior Full-Stack Developer",
+        "start": "Oct 2023",
+        "end": "Present",
+        "bullets": [
+          "Developed and deployed over 12 responsive user interface components using Vue.js and Pinia, improving user interaction metrics by 10%.",
+          "Built secure RESTful API endpoints using NestJS and MongoDB for user authentication and data management.",
+          "Collaborated in an Agile team of 6 engineers, participating in daily standups and bi-weekly sprint planning."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de Barcelona (UB)",
+        "degree": "Bachelor's Degree in Computer Science",
+        "start": "2019",
+        "end": "2023"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 2
+  },
+  {
+    "id": "fiona-connolly",
+    "fullName": "Fiona Connolly",
+    "role": "Full-Stack Engineer",
+    "email": "fiona.connolly@mail-example.net",
+    "phone": "+353 87 123 4567",
+    "location": "Dublin, Ireland",
+    "photoPath": "data/photos/fiona-connolly.jpg",
+    "summary": "Staff Full-Stack Engineer with over 12 years of experience architecting and scaling enterprise-level cloud applications. Proven track record in leading cross-functional engineering teams, designing distributed microservices architectures, and driving technical excellence across organizations.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "TypeScript",
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "PostgreSQL",
+      "Redis",
+      "CI/CD (Jenkins)",
+      "System Architecture"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native"
+      },
+      {
+        "name": "Irish",
+        "level": "B2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudSpire Technologies",
+        "title": "Staff Engineer",
+        "start": "Mar 2021",
+        "end": "Present",
+        "bullets": [
+          "Architected a highly-scalable SaaS platform using React, Spring Boot, and AWS, handling over 10 million daily API requests with 99.99% uptime.",
+          "Mentored 15+ senior and mid-level engineers, establishing coding standards and architectural patterns that increased deployment velocity by 40%.",
+          "Championed the transition to Infrastructure as Code (IaC) using Terraform, reducing cloud provisioning time from days to minutes."
+        ]
+      },
+      {
+        "company": "Dublin Fintech Lab",
+        "title": "Lead Full-Stack Developer",
+        "start": "Jun 2016",
+        "end": "Feb 2021",
+        "bullets": [
+          "Led the technical delivery of a core banking microservices system using Java and React, reducing transactional errors by 25%.",
+          "Designed and executed a zero-downtime database migration strategy from legacy Oracle DB to PostgreSQL."
+        ]
+      },
+      {
+        "company": "Apex Web Solutions",
+        "title": "Senior Software Engineer",
+        "start": "Sep 2012",
+        "end": "May 2016",
+        "bullets": [
+          "Developed scalable REST APIs and modern web frontends using Angular and Node.js.",
+          "Integrated third-party payment gateways and identity providers securely."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Trinity College Dublin",
+        "degree": "M.Sc. in Computer Science",
+        "start": "2010",
+        "end": "2012"
+      },
+      {
+        "institution": "Trinity College Dublin",
+        "degree": "B.Sc. in Computer Science",
+        "start": "2006",
+        "end": "2010"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 3
+  },
+  {
+    "id": "gerard-marti-i-valls",
+    "fullName": "Gerard Martí i Valls",
+    "role": "Data Scientist",
+    "email": "gerard.marti@examplemail.com",
+    "phone": "+34 677 345 678",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/gerard-marti-i-valls.jpg",
+    "summary": "Senior Data Scientist with 8+ years of experience designing and deploying machine learning models to solve complex business problems. Expert in predictive modeling, natural language processing, and deep learning, with a strong engineering background to bridge the gap between research and production.",
+    "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-Learn",
+      "Pandas",
+      "Apache Spark",
+      "MLflow",
+      "Docker",
+      "AWS",
+      "Git"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "AeroAnalytics",
+        "title": "Senior Data Scientist",
+        "start": "Jan 2022",
+        "end": "Present",
+        "bullets": [
+          "Designed and deployed a predictive maintenance deep learning model using PyTorch, reducing unplanned equipment downtime by 22% for industrial clients.",
+          "Built automated ML pipelines using MLflow and Docker on AWS, accelerating model deployment times from 4 weeks to 2 days.",
+          "Mentored 3 junior data scientists and established best practices for code versioning and model validation."
+        ]
+      },
+      {
+        "company": "BarnaData Solutions",
+        "title": "Data Scientist",
+        "start": "Sep 2018",
+        "end": "Dec 2021",
+        "bullets": [
+          "Developed a customer churn prediction model using Scikit-Learn and PySpark that processed 5M+ active customer profiles weekly, lowering churn by 14%.",
+          "Created interactive dashboards using Tableau and Python to communicate key predictive insights to C-level stakeholders."
+        ]
+      },
+      {
+        "company": "Catalana Tech",
+        "title": "Junior Data Analyst",
+        "start": "Oct 2015",
+        "end": "Aug 2018",
+        "bullets": [
+          "Analyzed web traffic and marketing campaigns, building forecasting models that optimized ad spend by 18%.",
+          "Automated daily data ingestion and cleaning pipelines from various database systems using SQL and Pandas."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat Politècnica de Catalunya (UPC)",
+        "degree": "M.Sc. in Data Science",
+        "start": "2013",
+        "end": "2015"
+      },
+      {
+        "institution": "Universitat Politècnica de Catalunya (UPC)",
+        "degree": "B.Sc. in Mathematics",
+        "start": "2009",
+        "end": "2013"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  },
+  {
+    "id": "javier-gomez-martinez",
+    "fullName": "Javier Gómez Martínez",
+    "role": "Machine Learning Engineer",
+    "email": "javier.gomez@fakemail.dev",
+    "phone": "+34 612 345 678",
+    "location": "Madrid, Spain",
+    "photoPath": "data/photos/javier-gomez-martinez.jpg",
+    "summary": "Ingeniero de Machine Learning con más de 5 años de experiencia en el diseño y despliegue de modelos de aprendizaje automático en producción. Especializado en procesamiento de lenguaje natural y arquitecturas de deep learning, habiendo liderado la migración de pipelines de datos heredados a soluciones en la nube de alta disponibilidad.",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-Learn",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "SQL",
+      "Apache Spark",
+      "Git"
+    ],
+    "languages": [
+      {
+        "name": "Español",
+        "level": "Nativo"
+      },
+      {
+        "name": "Inglés",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Madrid AI Solutions",
+        "title": "Ingeniero de Machine Learning Senior",
+        "start": "sep 2022",
+        "end": "Actualidad",
+        "bullets": [
+          "Despliegue de 4 modelos de NLP basados en Transformers en producción, reduciendo el tiempo de respuesta de la API en un 35%.",
+          "Optimización de pipelines de entrenamiento distribuido utilizando PyTorch y AWS SageMaker, lo que redujo los costos de computación en un 20%.",
+          "Supervisión de un equipo de dos ingenieros junior para la implementación de buenas prácticas de MLOps."
+        ]
+      },
+      {
+        "company": "Databits Tech",
+        "title": "Ingeniero de ML",
+        "start": "oct 2019",
+        "end": "ago 2022",
+        "bullets": [
+          "Desarrollo de modelos predictivos de fuga de clientes con un 88% de precisión utilizando Scikit-Learn.",
+          "Implementación de sistemas de ETL para procesar diariamente 10 millones de eventos con Apache Spark."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Politécnica de Madrid",
+        "degree": "Máster en Inteligencia Artificial",
+        "start": "2017",
+        "end": "2019"
+      },
+      {
+        "institution": "Universidad Politécnica de Madrid",
+        "degree": "Grado en Ingeniería Informática",
+        "start": "2013",
+        "end": "2017"
+      }
+    ],
+    "cvLanguage": "es",
+    "templateId": 2
+  },
+  {
+    "id": "carme-ribas-i-soler",
+    "fullName": "Carme Ribas i Soler",
+    "role": "Data Engineer",
+    "email": "carme.ribas@examplemail.com",
+    "phone": "+34 634 567 890",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/carme-ribas-i-soler.jpg",
+    "summary": "Data Engineer with over 4 years of experience building and optimizing robust data pipelines. Proven record of transforming legacy database structures into scalable data warehouse solutions on Snowflake and AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Apache Spark",
+      "Apache Airflow",
+      "Snowflake",
+      "AWS",
+      "Docker",
+      "dbt",
+      "PostgreSQL",
+      "Terraform"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Novatech Barcelona",
+        "title": "Data Engineer",
+        "start": "Nov 2021",
+        "end": "Present",
+        "bullets": [
+          "Designed and migrated 40+ ETL pipelines to dbt and Snowflake, improving data refresh rates from daily to near real-time.",
+          "Reduced AWS infrastructure monthly spending by 25% through optimization of Amazon EMR clusters and spot instances.",
+          "Partnered with analytics teams to build reliable data marts, serving 15+ business analysts across the organization."
+        ]
+      },
+      {
+        "company": "Pyxel Data Solutions",
+        "title": "Junior Data Engineer",
+        "start": "Oct 2019",
+        "end": "Oct 2021",
+        "bullets": [
+          "Maintained and debugged Apache Airflow DAGs processing over 500GB of daily log data.",
+          "Developed custom Python scripts to ingest external API data into a centralized PostgreSQL database."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de Barcelona",
+        "degree": "Master in Data Science",
+        "start": "2018",
+        "end": "2019"
+      },
+      {
+        "institution": "Universitat de Barcelona",
+        "degree": "Bachelor in Computer Science",
+        "start": "2014",
+        "end": "2018"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 3
+  },
+  {
+    "id": "miquel-serra-font",
+    "fullName": "Miquel Serra Font",
+    "role": "DevOps Engineer",
+    "email": "miquel.serra@mail-example.net",
+    "phone": "+34 678 901 234",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/miquel-serra-font.jpg",
+    "summary": "Senior DevOps Engineer with 8+ years of experience specialized in cloud architecture, CI/CD automation, and container orchestration. Expert in managing large-scale Kubernetes clusters and reducing infrastructure costs while maintaining high availability and security standards.",
+    "skills": [
+      "Python",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "GitLab CI",
+      "Ansible",
+      "Bash",
+      "Prometheus",
+      "Grafana"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudScale Systems",
+        "title": "Senior DevOps Engineer",
+        "start": "Mar 2022",
+        "end": "Present",
+        "bullets": [
+          "Designed and implemented multi-region AWS infrastructure with Terraform, reducing deployment failures by 40%.",
+          "Led the migration of 150+ microservices from ECS to self-managed Kubernetes (EKS), enhancing system scalability and resource utilization.",
+          "Established continuous integration pipelines using GitLab CI, dropping average build-to-deploy times from 45 to 12 minutes."
+        ]
+      },
+      {
+        "company": "Barcelona Cloud Solutions",
+        "title": "DevOps Engineer",
+        "start": "Sep 2018",
+        "end": "Feb 2022",
+        "bullets": [
+          "Automated infrastructure provisioning and configuration management using Ansible and Bash.",
+          "Configured comprehensive monitoring stacks with Prometheus and Grafana, decreasing Mean Time to Detection (MTTD) by 30%.",
+          "Implemented security hardening policies across cloud resources, ensuring GDPR compliance."
+        ]
+      },
+      {
+        "company": "NetTech Europa",
+        "title": "Infrastructure Engineer",
+        "start": "Jul 2015",
+        "end": "Aug 2018",
+        "bullets": [
+          "Managed on-premise Linux servers and pioneered the initial migration phase to AWS cloud services.",
+          "Wrote Python and Bash scripts to automate routine database backups and system health checks."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat Autònoma de Barcelona",
+        "degree": "B.Sc. in Computer Engineering",
+        "start": "2011",
+        "end": "2015"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  },
+  {
+    "id": "ainhoa-goikoetxea-uriarte",
+    "fullName": "Ainhoa Goikoetxea Uriarte",
+    "role": "Site Reliability Engineer",
+    "email": "ainhoa.goikoetxea@fakemail.dev",
+    "phone": "+34 620 987 654",
+    "location": "Bilbao, Spain",
+    "photoPath": "data/photos/ainhoa-goikoetxea-uriarte.jpg",
+    "summary": "Ingeniera de Fiabilidad de Sitios (SRE) con más de 4 años de experiencia garantizando la disponibilidad y escalabilidad de sistemas distribuidos de alto tráfico. Especializada en la automatización de la infraestructura y en el análisis proactivo de incidencias para optimizar el rendimiento del sistema.",
+    "skills": [
+      "Go",
+      "Bash",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "Google Cloud Platform (GCP)",
+      "Prometheus",
+      "Grafana",
+      "Linux",
+      "CI/CD"
+    ],
+    "languages": [
+      {
+        "name": "Español",
+        "level": "Nativo"
+      },
+      {
+        "name": "Euskera",
+        "level": "B2"
+      },
+      {
+        "name": "Inglés",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Euskadi Tech Lab",
+        "title": "Ingeniera SRE",
+        "start": "ene 2022",
+        "end": "Actualidad",
+        "bullets": [
+          "Reducción del tiempo de inactividad del sistema en un 45% mediante el desarrollo de scripts de autorrecuperación en Go y Bash.",
+          "Diseño y mantenimiento de clústeres de Kubernetes en GCP, gestionando picos de tráfico de hasta 15,000 solicitudes por segundo.",
+          "Implementación de políticas de SLO/SLI para toda la plataforma, mejorando la visibilidad del rendimiento del servicio."
+        ]
+      },
+      {
+        "company": "Bilbao Software House",
+        "title": "Ingeniera de Sistemas",
+        "start": "sep 2019",
+        "end": "dic 2021",
+        "bullets": [
+          "Automatización de la provisión de infraestructura utilizando Terraform y Ansible en entornos híbridos.",
+          "Gestión de incidentes de nivel 2 y desarrollo de análisis post-mortem detallados para prevenir recurrencias de fallos."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad del País Vasco",
+        "degree": "Grado en Ingeniería Informática",
+        "start": "2015",
+        "end": "2019"
+      }
+    ],
+    "cvLanguage": "es",
+    "templateId": 2
+  },
+  {
+    "id": "maximilian-scholz",
+    "fullName": "Maximilian Scholz",
+    "role": "Platform Engineer",
+    "email": "maximilian.scholz@examplemail.com",
+    "phone": "+49 89 2314 9811",
+    "location": "Munich, Germany",
+    "photoPath": "data/photos/maximilian-scholz.jpg",
+    "summary": "Senior Platform Engineer with over ten years of experience optimizing cloud infrastructure and build pipelines. Proven track record of migration from legacy bare-metal servers to Kubernetes-orchestrated AWS environments, reducing deployment times significantly. Passionate about infrastructure-as-code and building highly resilient, scalable developer platforms.",
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "Amazon Web Services (AWS)",
+      "Docker",
+      "Go",
+      "Bash",
+      "CI/CD (GitLab, Jenkins)",
+      "Prometheus",
+      "Grafana",
+      "Linux Systems",
+      "Helm"
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudVibe Munich",
+        "title": "Senior Platform Engineer",
+        "start": "Jan 2021",
+        "end": "Present",
+        "bullets": [
+          "Designed and maintained enterprise-grade multi-region Kubernetes clusters on AWS using Terraform, improving platform uptime to 99.99%.",
+          "Automated deployment workflows with GitLab CI/CD, reducing average developer onboarding time from two weeks to three days.",
+          "Implemented decentralized Prometheus and Grafana monitoring, leading to a 40% reduction in MTTR (Mean Time to Resolution)."
+        ]
+      },
+      {
+        "company": "MunichData Solutions",
+        "title": "DevOps Engineer",
+        "start": "Mar 2017",
+        "end": "Dec 2020",
+        "bullets": [
+          "Managed scalable containerized environments, migrating over 50 microservices from legacy virtual machines to AWS EKS.",
+          "Authored modular Terraform templates utilized by multiple development squads, standardizing infrastructure provisioning.",
+          "Optimized CI/CD pipelines resulting in a 25% reduction in build and test execution costs."
+        ]
+      },
+      {
+        "company": "NetInfrastructures GmbH",
+        "title": "Systems Administrator",
+        "start": "Oct 2013",
+        "end": "Feb 2017",
+        "bullets": [
+          "Maintained internal Linux server fleet and network infrastructure supporting 150+ corporate employees.",
+          "Developed robust automation bash scripts for overnight system backups and security patch deployment."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technical University of Munich",
+        "degree": "B.Sc. in Informatics",
+        "start": "2010",
+        "end": "2013"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 3
+  },
+  {
+    "id": "silvia-rovira-i-canal",
+    "fullName": "Sílvia Rovira i Canal",
+    "role": "Product Manager",
+    "email": "silvia.rovira@mail-example.net",
+    "phone": "+34 621 889 012",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/silvia-rovira-i-canal.jpg",
+    "summary": "Strategic Product Manager with more than nine years of experience leading cross-functional teams to build and scale B2B SaaS solutions. Expert in bridging the gap between business objectives, technology, and user experience to deliver high-impact features. Demonstrated capability in product strategy, user research, and data-driven prioritization.",
+    "skills": [
+      "Product Strategy",
+      "Agile & Scrum",
+      "Roadmapping",
+      "A/B Testing",
+      "JIRA",
+      "Confluence",
+      "SQL",
+      "Amplitude",
+      "Stakeholder Management",
+      "User Research"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "TravelSync",
+        "title": "Senior Product Manager",
+        "start": "Feb 2021",
+        "end": "Present",
+        "bullets": [
+          "Formulated the product vision and quarterly roadmap for a B2B travel booking API, increasing booking conversion rate by 18% in year one.",
+          "Led a cross-functional squad of 12 engineers, designers, and marketers in continuous product discovery and delivery.",
+          "Launched a major dashboard overhaul powered by SQL analytics, increasing active monthly user engagement by 22%."
+        ]
+      },
+      {
+        "company": "FinGrowth Barcelona",
+        "title": "Product Manager",
+        "start": "May 2017",
+        "end": "Jan 2021",
+        "bullets": [
+          "Owned the core onboarding flow, running systematic A/B tests that reduced user drop-off during registration by 14%.",
+          "Managed backlogs, wrote detailed user stories, and led sprint planning and grooming sessions under an Agile framework."
+        ]
+      },
+      {
+        "company": "WebStart Europe",
+        "title": "Associate Product Manager",
+        "start": "Sep 2012",
+        "end": "Apr 2017",
+        "bullets": [
+          "Conducted quantitative and qualitative user research to identify friction points, helping inform the mobile product roadmap.",
+          "Coordinated product launches across 4 regional markets, collaborating directly with local marketing and sales teams."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat Pompeu Fabra",
+        "degree": "Bachelor in Business Administration",
+        "start": "2008",
+        "end": "2012"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  },
+  {
+    "id": "pol-amat-i-soler",
+    "fullName": "Pol Amat i Soler",
+    "role": "UX/UI Designer",
+    "email": "pol.amat@fakemail.dev",
+    "phone": "+34 675 432 109",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/pol-amat-i-soler.jpg",
+    "summary": "Mid-level UX/UI Designer with 5 years of experience crafting user-centric interfaces for mobile and web platforms. Skilled in translating complex business processes into elegant, clean visual systems. Grounded in user research and rapid prototyping to continuously iterate and improve product experiences.",
+    "skills": [
+      "Figma",
+      "Sketch",
+      "Adobe Creative Suite",
+      "Wireframing",
+      "Prototyping",
+      "User Research",
+      "Design Systems",
+      "Usability Testing",
+      "HTML/CSS"
+    ],
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "B2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "AppCraft",
+        "title": "UX/UI Designer",
+        "start": "Jan 2022",
+        "end": "Present",
+        "bullets": [
+          "Redesigned the e-commerce mobile application, resulting in a 15% increase in completed checkout flows within the first quarter of release.",
+          "Created and documented a comprehensive Figma-based design system, reducing design-to-development handoff time by 30%."
+        ]
+      },
+      {
+        "company": "DesignGenius",
+        "title": "Junior UX/UI Designer",
+        "start": "Sep 2018",
+        "end": "Dec 2021",
+        "bullets": [
+          "Conducted 20+ qualitative usability test sessions, synthesizing feedback to iterate and improve the interface of SaaS client products.",
+          "Produced high-fidelity mockups, responsive web wireframes, and interactive micro-animations for varied B2C clients."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de Barcelona",
+        "degree": "Bachelor in Design",
+        "start": "2014",
+        "end": "2018"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 2
+  },
+  {
+    "id": "lucia-navarro-lopez",
+    "fullName": "Lucía Navarro López",
+    "role": "Product Designer",
+    "email": "lucia.navarro@examplemail.com",
+    "phone": "+34 699 123 456",
+    "location": "Málaga, Spain",
+    "photoPath": "data/photos/lucia-navarro-lopez.jpg",
+    "summary": "Diseñadora de producto junior con un fuerte interés por la creación de interfaces web y móviles accesibles e intuitivas. Enfocada en simplificar flujos de usuario complejos mediante wireframes bien definidos y prototipos interactivos de alta fidelidad en Figma. Capacidad demostrada para colaborar con equipos de desarrollo para garantizar una ejecución impecable del diseño.",
+    "skills": [
+      "Figma",
+      "Adobe Creative Suite",
+      "Prototipado interactivo",
+      "Sistemas de diseño",
+      "Investigación de usuarios (UX Research)",
+      "Arquitectura de la información",
+      "Diseño visual",
+      "Diseño responsive",
+      "Trabajo en equipo"
+    ],
+    "languages": [
+      {
+        "name": "Español",
+        "level": "Nativo"
+      },
+      {
+        "name": "Inglés",
+        "level": "B2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "TechSoluciones Málaga",
+        "title": "Diseñadora de Producto Junior",
+        "start": "mar 2023",
+        "end": "Actualidad",
+        "bullets": [
+          "Lideré el rediseño de la plataforma web de gestión interna, simplificando la navegación y reduciendo el tiempo de realización de tareas en un 20%.",
+          "Elaboré flujos de usuario detallados, mockups visuales y prototipos interactivos para tres nuevas funcionalidades de la aplicación móvil."
+        ]
+      },
+      {
+        "company": "MálagaCreative",
+        "title": "Diseñadora en Prácticas",
+        "start": "oct 2022",
+        "end": "feb 2023",
+        "bullets": [
+          "Colaboré en la creación de componentes reutilizables para el sistema de diseño local utilizando variables en Figma.",
+          "Asistí en la realización de pruebas de usabilidad y en el análisis del comportamiento de los usuarios para proponer mejoras visuales."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Málaga",
+        "degree": "Grado en Diseño Gráfico",
+        "start": "2018",
+        "end": "2022"
+      }
+    ],
+    "cvLanguage": "es",
+    "templateId": 3
+  },
+  {
+    "id": "arnau-sole-i-ventura",
+    "fullName": "Arnau Solé i Ventura",
+    "role": "QA Automation Engineer",
+    "email": "arnau.sole@fakemail.dev",
+    "phone": "+34 612 345 678",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/arnau-sole-i-ventura.jpg",
+    "summary": "QA Automation Engineer with over 5 years of experience designing and executing automated test suites for complex web and mobile applications. Specializes in building robust, maintainable test frameworks from scratch and integrating them seamlessly into CI/CD pipelines to guarantee high-quality releases.",
+    "skills": [
+      "Python",
+      "Selenium WebDriver",
+      "PyTest",
+      "Appium",
+      "Jenkins",
+      "Git",
+      "Postman",
+      "Docker",
+      "SQL",
+      "Agile/Scrum"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "AeroVibe Tech",
+        "title": "QA Automation Engineer",
+        "start": "Nov 2021",
+        "end": "Present",
+        "bullets": [
+          "Designed and maintained a Python-based PyTest and Selenium automated framework, resulting in a 30% reduction in regression testing time.",
+          "Integrated automated testing jobs into GitLab CI/CD pipelines, ensuring automated verification on every deployment branch.",
+          "Collaborated closely with developers to identify and resolve high-severity issues prior to release cycles."
+        ]
+      },
+      {
+        "company": "Novus Software",
+        "title": "QA Engineer",
+        "start": "Sep 2018",
+        "end": "Oct 2021",
+        "bullets": [
+          "Authored over 200 automated end-to-end test cases and managed manual exploratory testing for a B2B SaaS platform.",
+          "Established weekly testing reports and defect logs to streamline communication between the engineering and QA teams.",
+          "Participated in agile ceremonies, estimating QA efforts and refining user acceptance criteria."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat de Barcelona",
+        "degree": "Bachelor's Degree in Computer Science",
+        "start": "2014",
+        "end": "2018"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  },
+  {
+    "id": "mateusz-kowalski",
+    "fullName": "Mateusz Kowalski",
+    "role": "Android Developer",
+    "email": "mateusz.kowalski@examplemail.com",
+    "phone": "+48 501 234 567",
+    "location": "Warsaw, Poland",
+    "photoPath": "data/photos/mateusz-kowalski.jpg",
+    "summary": "Senior Android Developer with 8+ years of experience crafting high-performance, user-centric mobile applications. Proven track record of optimizing application performance, migrating legacy architectures, and mentoring team members in modern Kotlin development practices.",
+    "skills": [
+      "Kotlin",
+      "Android SDK",
+      "Jetpack Compose",
+      "Coroutines",
+      "Dagger Hilt",
+      "MVVM",
+      "Clean Architecture",
+      "JUnit",
+      "Retrofit",
+      "Git",
+      "CI/CD"
+    ],
+    "languages": [
+      {
+        "name": "Polish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "VeloByte Warsaw",
+        "title": "Senior Android Engineer",
+        "start": "Mar 2021",
+        "end": "Present",
+        "bullets": [
+          "Led the architectural migration of a core mobile banking app to Jetpack Compose, improving UI rendering performance by 25%.",
+          "Established automated continuous integration workflows using GitHub Actions, reducing deployment errors by 15%.",
+          "Mentored 4 junior and mid-level Android developers through pairing sessions and comprehensive code reviews."
+        ]
+      },
+      {
+        "company": "PixelKraft",
+        "title": "Android Developer",
+        "start": "Jan 2018",
+        "end": "Feb 2021",
+        "bullets": [
+          "Refactored a monolithic codebase into a highly modular MVVM structure, achieving a 40% reduction in crashes.",
+          "Implemented offline-first capabilities using Room database and secure local data synchronization."
+        ]
+      },
+      {
+        "company": "AppLab Poland",
+        "title": "Junior Android Developer",
+        "start": "Jul 2015",
+        "end": "Dec 2017",
+        "bullets": [
+          "Developed and launched 3 commercial Android applications from requirements to publishing on Google Play.",
+          "Integrated third-party APIs and libraries for analytical tracking and push notifications."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Warsaw University of Technology",
+        "degree": "Master of Science in Computer Science",
+        "start": "2010",
+        "end": "2015"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 2
+  },
+  {
+    "id": "nuria-fontbona-i-camps",
+    "fullName": "Núria Fontbona i Camps",
+    "role": "iOS Developer",
+    "email": "nuria.fontbona@mail-example.net",
+    "phone": "+34 654 321 098",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/nuria-fontbona-i-camps.jpg",
+    "summary": "Mid-level iOS Developer with 4 years of experience building responsive and elegant mobile applications. Skilled in Swift and modern iOS frameworks, with a passionate focus on performance tuning, custom transitions, and intuitive user experiences.",
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "Objective-C",
+      "UIKit",
+      "Combine",
+      "CoreData",
+      "Xcode",
+      "Git",
+      "Swift Package Manager",
+      "Cocoapods",
+      "Agile"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "B2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Nectis Mobile",
+        "title": "iOS Developer",
+        "start": "Oct 2021",
+        "end": "Present",
+        "bullets": [
+          "Developed and launched two new consumer-facing iOS applications built entirely on SwiftUI and Combine.",
+          "Identified and resolved severe memory leaks using Xcode Instruments, decreasing overall app memory footprint by 15%.",
+          "Worked in a cross-functional Scrum team to quickly deliver monthly feature updates and performance patches."
+        ]
+      },
+      {
+        "company": "BcnTech Studio",
+        "title": "Junior iOS Developer",
+        "start": "Sep 2019",
+        "end": "Sep 2021",
+        "bullets": [
+          "Maintained a legacy Objective-C app while successfully translating core feature modules into modern Swift.",
+          "Configured secure integrations with Stripe payment processing APIs and optimized local caching policies."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat Politècnica de Catalunya (UPC)",
+        "degree": "Bachelor in Computer Engineering",
+        "start": "2015",
+        "end": "2019"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 3
+  },
+  {
+    "id": "roger-vila-i-coll",
+    "fullName": "Roger Vila i Coll",
+    "role": "Engineering Manager",
+    "email": "roger.vila@fakemail.dev",
+    "phone": "+34 677 889 900",
+    "location": "Barcelona, Spain",
+    "photoPath": "data/photos/roger-vila-i-coll.jpg",
+    "summary": "Engineering Manager with over 10 years of experience leading high-impact software development teams. Accomplished in scaling cross-functional organizations, cultivating high-performance engineering cultures, and delivering cloud architectures while aligning technology with corporate strategies.",
+    "skills": [
+      "Agile Methodologies",
+      "Software Architecture",
+      "Team Leadership",
+      "Cloud Architecture (AWS)",
+      "CI/CD",
+      "Hiring & Mentoring",
+      "Budgeting",
+      "Strategic Planning",
+      "Microservices",
+      "Node.js",
+      "Java"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "Catalan",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "C2"
+      }
+    ],
+    "experience": [
+      {
+        "company": "InnoTech Solutions",
+        "title": "Engineering Manager",
+        "start": "Jan 2021",
+        "end": "Present",
+        "bullets": [
+          "Scaled the engineering department from 8 to 25 engineers by establishing a standardized, unbiased technical recruitment funnel.",
+          "Reduced voluntary annual engineering turnover from 15% to 5% by instituting clear, customized career development tracks.",
+          "Spearheaded the migration of a legacy backend monolith into an event-driven AWS microservices ecosystem, decreasing infrastructure costs by 20%."
+        ]
+      },
+      {
+        "company": "CloudScale Europe",
+        "title": "Technical Lead",
+        "start": "Apr 2017",
+        "end": "Dec 2020",
+        "bullets": [
+          "Led a dedicated team of 6 software engineers to build and scale transactional payment APIs handling 100k+ daily operations.",
+          "Partnered with product managers and business stakeholders to translate roadmap visions into actionable technical requirements.",
+          "Advocated for robust software craftsmanship, driving the adoption of comprehensive automated unit and integration testing."
+        ]
+      },
+      {
+        "company": "WebStream Bcn",
+        "title": "Senior Software Engineer",
+        "start": "Oct 2013",
+        "end": "Mar 2017",
+        "bullets": [
+          "Designed backend services using Node.js and MongoDB, boosting platform API response speeds by 40%.",
+          "Automated deployments by architecting multi-stage CI/CD pipelines, decreasing deployment times to production environments."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitat Pompeu Fabra",
+        "degree": "Master's Degree in Software Engineering",
+        "start": "2011",
+        "end": "2013"
+      }
+    ],
+    "cvLanguage": "en",
+    "templateId": 1
+  }
+]

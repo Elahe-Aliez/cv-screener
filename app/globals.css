@@ -1,0 +1,173 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-sans);
+  --font-display: var(--font-display);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-brand: var(--brand);
+  --color-brand-ink: var(--brand-ink);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+}
+
+/*
+ * Design tokens — calm, editorial, document-centric. Light theme only.
+ * Everything derives from these: warm paper canvas, graphite ink, one teal.
+ */
+:root {
+  /* canvas + surfaces */
+  --background: #fafaf8; /* app canvas: near-white warm paper */
+  --foreground: #1a1d21; /* ink */
+  --card: #ffffff; /* chat canvas / raised surfaces */
+  --card-foreground: #1a1d21;
+  --popover: #ffffff;
+  --popover-foreground: #1a1d21;
+
+  /* the one accent: Leadtech-adjacent teal. Used only for primary action,
+     active states, focus rings, links and the streaming cursor. */
+  --brand: #0fa3a3;
+  --brand-ink: #0b7c7c; /* darker teal for text on white (AA contrast) */
+  --primary: #0fa3a3;
+  --primary-foreground: #ffffff;
+
+  /* quiet neutrals */
+  --secondary: #f3f3f0;
+  --secondary-foreground: #1a1d21;
+  --muted: #f3f3f0;
+  /* a step darker than the spec's #6B7280 so secondary text clears WCAG AA
+     (4.5:1) on every surface, including the sidebar tints */
+  --muted-foreground: #616873;
+  --accent: #ecece8;
+  --accent-foreground: #1a1d21;
+  --destructive: #b3372f;
+  --border: #e7e5e0; /* warm hairline */
+  --input: #e7e5e0;
+  --ring: #0fa3a3;
+  --radius: 0.5rem;
+
+  /* sidebar: very soft warm grey, hairline-separated from the canvas */
+  --sidebar: #f3f3f0;
+  --sidebar-foreground: #1a1d21;
+  --sidebar-primary: #0fa3a3;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #eaeae5;
+  --sidebar-accent-foreground: #1a1d21;
+  --sidebar-border: #e7e5e0;
+  --sidebar-ring: #0fa3a3;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
+
+/* The signature: a teal semicolon — Leadtech's logomark — as the streaming
+   cursor, blinking softly. Static under prefers-reduced-motion. */
+@keyframes cursor-blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.2;
+  }
+}
+
+.streaming-cursor {
+  color: var(--brand);
+  font-weight: 600;
+  animation: cursor-blink 1.1s ease-in-out infinite;
+}
+
+/* Thinking state (icon-only): choreographed, not a generic pulse.
+   The document stays perfectly still and only breathes its opacity; the
+   sparkle carries the life — it glints in and out (scale 0→1→0 with a soft
+   quarter-turn) on a shorter, offset rhythm so the two layers never sync.
+   Transform + opacity only, so everything stays on the compositor.
+   (A two-position "scanning" sparkle was tried and reads busy at 22px —
+   the single-position glint wins.) */
+@keyframes logo-doc-breathe {
+  0%,
+  100% {
+    opacity: 0.45;
+  }
+  50% {
+    opacity: 0.9;
+  }
+}
+
+@keyframes logo-sparkle-glint {
+  0% {
+    transform: scale(0) rotate(0deg);
+    opacity: 0;
+  }
+  45% {
+    transform: scale(1) rotate(60deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0) rotate(90deg);
+    opacity: 0;
+  }
+}
+
+.logo-thinking .logo-doc {
+  animation: logo-doc-breathe 1.8s ease-in-out infinite;
+}
+
+.logo-thinking .logo-sparkle {
+  transform-origin: center;
+  transform-box: fill-box;
+  animation: logo-sparkle-glint 1.4s ease-in-out -0.2s infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .streaming-cursor,
+  .logo-thinking .logo-doc,
+  .logo-thinking .logo-sparkle {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+}
